@@ -1,0 +1,1 @@
+Hello Server. I send YoU this Huffman encoded STRING!
