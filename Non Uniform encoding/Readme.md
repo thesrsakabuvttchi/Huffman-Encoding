@@ -4,4 +4,4 @@
 
 ### `server.c`, `client.c` and `in.txt` are to be used together, client.c reads from in.txt and sends the encoded message to the server which then decodes it.
 
-##### PLEASE NOTE THAT INPUT MESSAGE SIZE IS RESTRICTED TO 1KB (1024 BYTES) IN BOTH CASES
+##### PLEASE NOTE THAT INPUT MESSAGE SIZE IS RESTRICTED TO 1KB (1024 BYTES) 
